@@ -1,0 +1,9 @@
+---
+---
+@import "./support/support";
+
+// 2. Control the size of your logo image
+.site-logo {
+    max-height: 6rem !important; // Increase this value (e.g., 5rem, 6rem) to make it larger
+    width: auto !important;
+}
