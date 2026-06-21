@@ -9,11 +9,12 @@ GroqAI assistant in the app expense tracker is built to understand your data and
 
 * How to Use the AI  
   The AI chatbot screen is at the bottom left corner of the main screen, as shown in figure 3.1.
-  <img src="assets/images/fig_3_1.jpg" alt="Figure 3.1" style="float: right; margin: 0 0 20px 20px; width: 35%; max-width: 280px; clear: right;">
+  <img src="assets/images/fig_3_1.jpg?v=1" alt="Figure 3.1" style="float: right; margin: 0 0 20px 20px; width: 35% !important; max-width: 250px !important; clear: right;">
 
 * As you press it, the AI screen opens and the chatbot starts your chat with a formal message. (figure 3.2)
-  <img src="assets/images/fig_3_2.jpg" alt="Figure 3.2" style="float: right; margin: 0 0 20px 20px; width: 35%; max-width: 280px; clear: right;">
+  <img src="assets/images/fig_3_2.jpg?v=1" alt="Figure 3.2" style="float: right; margin: 0 0 20px 20px; width: 35% !important; max-width: 250px !important; clear: right;">
 
 * The floating recommendations are recommended prompts you can ask it. Swipe left on a message to instantly delete it.
 
 * Thus, this AI chatbot can do many things, just use it good!
+
