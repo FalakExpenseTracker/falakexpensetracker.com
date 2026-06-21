@@ -15,5 +15,10 @@ The AI chatbot screen is at the bottom left corner of the main screen, as shown 
 </div>
 
 As you press it, the AI screen opens and the chatbot starts your chat with a formal message. (figure 3.2)
+
+<div style="text-align: right; margin: 20px 0;">
+  <img src="/assets/images/fig_3_2.jpg" alt="Figure 3.2" style="width: 50%; max-width: 500px;">
+</div>
+
 * The floating recommendations are recommended prompts you can ask it. Swipe left on a message to instantly delete it.
 * Thus, this AI chatbot can do many things, just use it good!
