@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Expense Tracker
-nav_order: 1
+nav_order: 2
 ---
 Mastering Your Money: The Ultimate Guide to the Autonomous Expense Tracker:
 + In an era where digital transactions happen in the blink of an eye, maintaining a clear picture of your financial health has never been more difficult—or more essential. Most financial apps are either too simple, acting as mere digital notebooks, or too complex, requiring a degree in accounting to navigate. This Expense Tracker, created by Falak Prakash, represents a new paradigm: the "Autonomous Financial Intelligence."
