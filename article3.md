@@ -7,14 +7,33 @@ GroqAI assistant in the app expense tracker is built to understand your data and
 
 * There can be two errors in the AI while usage. The solution to both is to wait for a while and then try again. It could be an AI connection error or you might have finished your tokens. We are working on adding a payment page so you can directly access Groq and pay for higher token limits.
 
-* How to Use the AI  
-  The AI chatbot screen is at the bottom left corner of the main screen, as shown in figure 3.1.
-  <img src="assets/images/fig_3_1.jpg" alt="Figure 3.1" style="float: right; margin: 0 0 20px 20px; max-width: 240px; clear: right;">
-
-* As you press it, the AI screen opens and the chatbot starts your chat with a formal message. (figure 3.2)
-  <img src="assets/images/fig_3_2.jpg" alt="Figure 3.2" style="float: right; margin: 0 0 20px 20px; max-width: 240px; clear: right;">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>
+          <strong>How to Use the AI</strong><br>
+          The AI chatbot screen is at the bottom left corner of the main screen, as shown in figure 3.1.
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="assets/images/fig_3_1.jpg" alt="Figure 3.1" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>
+          As you press it, the AI screen opens and the chatbot starts your chat with a formal message. (figure 3.2)
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="assets/images/fig_3_2.jpg" alt="Figure 3.2" width="220">
+    </td>
+  </tr>
+</table>
 
 * The floating recommendations are recommended prompts you can ask it. Swipe left on a message to instantly delete it.
-
 * Thus, this AI chatbot can do many things, just use it good!
-
