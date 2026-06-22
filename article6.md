@@ -40,15 +40,15 @@ While cloud sync is powerful, we believe in user autonomy. The Backup & Restore 
 * **Portability:** Download your entire financial history into a single, human-readable file.  
 * **Merge Import:** When importing a backup, the app doesn't just overwrite your data; it intelligently merges it with your current records, keeping the most recent updates for every single entry.
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td valign="top" width="40%">
+    <td valign="top" width="50%" style="padding: 10px;">
       <h2>How It works on Your Mobile Device</h2>
       <p>When you login, Falak Prakash's Firebase Realtime Database console marks you as a user. All of your data will sync between devices which are logged in with the same account.</p>
       <p><strong>See fig 6.1:</strong> This is firebase console. If you are a user, your UserId will be displayed in the list of users and your data will follow. For How to Login, see article 7 ("Our Login Feature")</p>
     </td>
-    <td valign="top" width="60%" align="right">
-      <img src="assets/images/Fig_6_1.png" alt="Figure 6.1" width="320">
+    <td valign="middle" width="50%" style="padding: 0; background: #000;">
+      <img src="assets/images/fig_6_1.png" alt="Figure 6.1" style="display: block; width: 100%; height: 100%; object-fit: cover;">
     </td>
   </tr>
 </table>
