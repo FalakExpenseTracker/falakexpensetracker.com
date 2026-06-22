@@ -24,10 +24,7 @@ What happens if you edit a transaction on your phone while your tablet is offlin
 * **Manual Review:** For complex changes, the app identifies "Sync Conflicts" and flags them directly on your Main Screen, allowing you to manually choose which version to trust.
 
 ## 4. Privacy-First "Sync ID"
-We value your privacy. The app utilizes a unique Sync ID system.  
-
-* **Anonymous Pairing:** You don't need to link a social media account to sync. Simply use your secure Sync ID on a second device, and the app instantly pairs your data.  
-* **Encrypted Transport:** All data sent to the cloud is transmitted over secure SSL/TLS channels, ensuring your financial secrets remain yours.
+We value your privacy. The app utilizes a unique Sync ID system. 
 
 ## 5. Background Intelligence (WorkManager)
 The sync feature doesn't stop when you close the app. Using Android’s WorkManager API, the tracker performs "Tombstone Reconciliation."  
@@ -51,7 +48,7 @@ While cloud sync is powerful, we believe in user autonomy. The Backup & Restore 
       <p><strong>See fig 6.1:</strong> This is firebase console. If you are a user, your UserId will be displayed in the list of users and your data will follow. For How to Login, see article 7 ("Our Login Feature")</p>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="assets/images/fig_6_1.jpg" alt="Figure 6.1" width="220">
+      <img src="assets/images/Fig_6_1.png" alt="Figure 6.1" width="220">
     </td>
   </tr>
 </table>
