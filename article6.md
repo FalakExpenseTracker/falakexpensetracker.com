@@ -48,7 +48,7 @@ While cloud sync is powerful, we believe in user autonomy. The Backup & Restore 
       <p><strong>See fig 6.1:</strong> This is firebase console. If you are a user, your UserId will be displayed in the list of users and your data will follow. For How to Login, see article 7 ("Our Login Feature")</p>
     </td>
     <td valign="middle" width="50%" style="padding: 0; background: #000;">
-      <img src="assets/images/fig_6_1.png" alt="Figure 6.1" style="display: block; width: 100%; height: 100%; object-fit: cover;">
+      <img src="assets/images/Fig_6_1.png" alt="Figure 6.1" style="display: block; width: 100%; height: 100%; object-fit: cover;">
     </td>
   </tr>
 </table>
