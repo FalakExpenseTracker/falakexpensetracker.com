@@ -9,3 +9,4 @@ Fixed Deposits are money given to a bank, which pays interest on them so that yo
 # Calculators
 They are a series of financial calculators designed to help you in financial calculations. They do not require a lot of explanation. See Fig 9.2 for the screen.
 # Backup & Restore
+This is one of the most important screens of the app. It has features of sync (see article 6) and local backups. See Fig 9.3. This screen helps to export and import .json backups. They are local backups (stored on your de We have marked the buttons. The screen also has an option displaying your account's unique Sync ID. Even though there is an option to change it, DO NOT CHANGE IT. Sync will stop. We will remove the option in the next version.
